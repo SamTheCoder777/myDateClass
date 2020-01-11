@@ -1,6 +1,6 @@
 /*
  * MyDate Class
- * can set dates and view the dates
+ * allows user to get and set the dates and checks for valid dates.
  * 
  * Jan 10, 2020
  * Samuel Han
